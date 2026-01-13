@@ -1,0 +1,79 @@
+body {
+    font-family: Roboto, sans-serif;
+    color: #434455;
+    background-color: #ffffff;
+    line-height: 1.5;
+}
+p {
+    font-weight: 400;
+    size: 16px;
+    line-height: 1.5;
+    letter-spacing: 2%;
+    color:#434455;
+}
+h2 {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.111;
+    letter-spacing: 2%;
+    color: #2E2F42;
+}
+h3 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 2%;
+    color: #2E2F42;
+}
+ul {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+}
+.logo-header {
+    font-family: Raleway;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.167;
+    letter-spacing: 3%;
+    color: #2E2F42;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.logo-top {
+    color: #4D5AE5;
+}
+.main-nav {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 2%;
+}
+.nav-link{
+    color: #2E2F42;
+    text-decoration: none;
+}
+.nav-link:hover {
+    color: #404BBF;
+}
+.nav-link:focus {
+    color: #404BBF;
+}
+.adress {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 2%;
+}
+.adress-link {
+    color: #2E2F42;
+    text-decoration: none;
+}
+.adress-link:hover {
+    color: #404BBF;
+}
+
+.adress-link:focus {
+    color: #404BBF;
+}
