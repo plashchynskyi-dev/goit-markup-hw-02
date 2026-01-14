@@ -2,7 +2,12 @@ body {
     font-family: Roboto, sans-serif;
     color: #434455;
     background-color: #ffffff;
+    font-size: 16px;
     line-height: 1.5;
+    font-weight: 400;
+    letter-spacing: 0.02em;
+    font-style: normal;
+
 }
 p {
     font-weight: 400;
@@ -60,7 +65,7 @@ a {
 .nav-link:focus {
     color: #404BBF;
 }
-.main-adress {
+.main-address {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
@@ -69,6 +74,11 @@ a {
 }
 .adress-link {
     color: #434455;
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: 400;
+    letter-spacing: 0.02em;
+    font-style: normal;
     text-decoration: none;
 }
 .adress-link:hover {
