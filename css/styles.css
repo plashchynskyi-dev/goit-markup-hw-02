@@ -6,23 +6,23 @@ body {
 }
 p {
     font-weight: 400;
-    size: 16px;
+    font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
     color:#434455;
 }
 h2 {
     font-weight: 700;
     font-size: 36px;
     line-height: 1.111;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
     color: #2E2F42;
 }
 h3 {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
     color: #2E2F42;
 }
 ul {
@@ -36,7 +36,7 @@ a {
     font-weight: 700;
     font-size: 18px;
     line-height: 1.167;
-    letter-spacing: 3%;
+    letter-spacing: 0.03em;
     color: #2E2F42;
     text-decoration: none;
     text-transform: uppercase;
@@ -48,7 +48,7 @@ a {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
 }
 .nav-link{
     color: #2E2F42;
@@ -60,14 +60,15 @@ a {
 .nav-link:focus {
     color: #404BBF;
 }
-.adress {
+.main-adress {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
+    font-style: normal;
 }
 .adress-link {
-    color: #2E2F42;
+    color: #434455;
     text-decoration: none;
 }
 .adress-link:hover {
@@ -81,10 +82,11 @@ a {
     background-color: #2E2F42;
 }
 .main-hero-text {
+    font-family: Roboto;
     font-weight: 700;
     font-size: 56px;
     line-height: 1.071;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
     color: #ffffff;
     text-align: center;
 }
@@ -92,7 +94,7 @@ a {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 4%;
+    letter-spacing: 0.04em;
     color: #ffffff;
     background-color: #4D5AE5;
     cursor: pointer;
@@ -111,7 +113,7 @@ a {
     font-weight: 700;
     font-size: 36px;
     line-height: 1.111;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
     color: #2E2F42;
 }
 .employee-name{
@@ -119,7 +121,7 @@ a {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
     color: #2E2F42;
     
 }
@@ -128,7 +130,7 @@ a {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
     color: #434455;
 }
 .mark-guerrero {
@@ -154,7 +156,7 @@ a {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
     color: #2E2F42;
 }
 
@@ -162,7 +164,7 @@ a {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
     color: #434455;
 }
 .footer{
@@ -173,7 +175,7 @@ a {
     font-weight: 700;
     font-size: 18px;
     line-height: 1.167;
-    letter-spacing: 3%;
+    letter-spacing: 0.03em;
     color: #F4F4FD;
     text-decoration: none;
     text-transform: uppercase;
@@ -183,7 +185,7 @@ a {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
 }
 
 .logo-bottom {
